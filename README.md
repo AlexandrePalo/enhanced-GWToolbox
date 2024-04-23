@@ -11,7 +11,7 @@ GWToolbox for GuildWars with extra features
   <li><a href="https://github.com/gwdevhub/GWToolboxpp/releases/tag/6.16_Release">Toolbox 6.16</a></li>
     <ul>
       <li>✅ Target all - <a href="/6.16/GWToolboxdll.dll">main dll</a></li>
-      <li>✅ Open chest from distance - <a href="/6.16/OpenChestFromDistance.dll">plugin ready</a> (/openchest command)</li>
+      <li>✅ Open chest from distance - <a href="/6.16/OpenChestFromDistance.dll">plugin ready</a> (`/openchest` command)</li>
       <li>❌ Dialog window - work in progress</li>
     </ul>
   </li>
