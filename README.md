@@ -9,24 +9,10 @@ GWToolbox for GuildWars with extra features
     - Enhanced dialog window with reward / quest taking without delay.
 
 ## Version list
-<style>
-  td,th { text-align: center; }
-  tr th:first-child, td:first-child { text-align: right; padding-right: 30px }
-  th,td { padding-right: 20px; padding-left: 20px; }
-
-  th,td { border-collapse: collapse; border: solid 1px #f00;}
-  tr th:first-child,td:first-child { border-left: 0; }
-  tr th:last-child,td:last-child { border-right: 0; }
-  tr:last-child td { border-bottom: 0; }
-  tr:first-child th { border-top: 0; }
-
-  .working { background-color: rgb(134 239 172); }
-  .failing { background-color: rgb(252 165 165); }
-</style>
 <table>
 <thead>
   <tr>
-    <th>Official Toolbox</th>
+    <th>Official Toolbox</b></th>
     <th><a href="https://github.com/gwdevhub/GWToolboxpp/releases/tag/6.16_Release">6.16</a></th>
     <th><a href="https://github.com/gwdevhub/GWToolboxpp/releases/tag/6.17_Release">6.17</a></th>
   </tr>
