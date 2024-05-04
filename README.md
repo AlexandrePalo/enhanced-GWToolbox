@@ -25,7 +25,7 @@ GWToolbox for GuildWars with extra features
   </tr>
   <tr>
     <td align="left"><b>Plugin OpenChestFromDistance<sup>(2)</sup></b><br><i>/openchest</i> chat command</td>
-    <td  align="center" colspan="2"><a href="/plugins/OpenChestFromDistance/2024-04-23_6.16-build/OpenChestFromDistance.dll">23/04/24 build</a></td>
+    <td align="center" colspan="2"><a href="/plugins/OpenChestFromDistance/2024-04-23_6.16-build/OpenChestFromDistance.dll">23/04/24 build</a></td>
   </tr>
 </tbody>
 </table>
@@ -34,6 +34,10 @@ GWToolbox for GuildWars with extra features
 - (2) : To use a plugin, add the given <i>.dll</i> file in the <i>computer-name/plugins</i> folder in your main <i>GWToolboxpp</i> folder. Then, in GuildWars, open Toolbox settings and go to the <i>plugins</i> section to load the one you want. Usually a chat message shows that the plugin was successfully loaded.
 
 For last TB versions, the main TB folder is located in your Windows user <i>Documents</i> folder.
+
+
+## Known issues in last versions
+- Unloading the OpenChestFromDistance plugin from GWToolbox settings sometimes leads to a crash.
 
 ## Remarks
 - When possible, each extra feature is added with a plugin. They are easier to maintain and can be loaded / unloaded when you really need them.
