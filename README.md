@@ -12,20 +12,20 @@ GWToolbox for GuildWars with extra features
 <table>
 <thead>
   <tr>
-    <th>Official Toolbox</b></th>
+    <th align="left">Official Toolbox</th>
     <th><a href="https://github.com/gwdevhub/GWToolboxpp/releases/tag/6.16_Release">6.16</a></th>
     <th><a href="https://github.com/gwdevhub/GWToolboxpp/releases/tag/6.17_Release">6.17</a></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td>Modified Toolbox<br><b>TargetEverything enable<sup>(1)</sup></b></td>
-    <td><a href="/maindll/6.16/GWToolboxdll.dll">6.16</a></td>
-    <td><a href="/maindll/6.17/GWToolboxdll.dll">6.17</a></td>
+    <td align="left"Modified Toolbox<br><b>TargetEverything enable<sup>(1)</sup></b></td>
+    <td align="center"><a href="/maindll/6.16/GWToolboxdll.dll">6.16</a></td>
+    <td align="center"><a href="/maindll/6.17/GWToolboxdll.dll">6.17</a></td>
   </tr>
   <tr>
-    <td><b>Plugin OpenChestFromDistance<sup>(2)</sup></b><br><i>/openchest</i> chat command</td>
-    <td colspan="2"><a href="/plugins/OpenChestFromDistance/2024-04-23_6.16-build/OpenChestFromDistance.dll">23/04/24 build</a></td>
+    <td align="left"><b>Plugin OpenChestFromDistance<sup>(2)</sup></b><br><i>/openchest</i> chat command</td>
+    <td  align="center" colspan="2"><a href="/plugins/OpenChestFromDistance/2024-04-23_6.16-build/OpenChestFromDistance.dll">23/04/24 build</a></td>
   </tr>
 </tbody>
 </table>
