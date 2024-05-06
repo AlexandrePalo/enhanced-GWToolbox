@@ -2,10 +2,9 @@
 GWToolbox for GuildWars with extra features
 
 ## Extra features
-- **Target everything**: allow Toolbox to target any NPC (deads, minipets, invisibles, ...) from the minimap or with an hotkey.
+- **Allow target everything**: allow Toolbox to target any NPC (deads, minipets, invisibles, ...) from the minimap or with an hotkey.
 - **Open chest from distance**: allow Toolbox to open a chest further away than close contact.
 - **Current work in progress**:
-    - Plugin for TargetEverything rather than the maindll file.
     - Enhanced dialog window with reward / quest taking without delay.
 
 ## Version list
@@ -19,9 +18,13 @@ GWToolbox for GuildWars with extra features
 </thead>
 <tbody>
   <tr>
-    <td align="left"Modified Toolbox<br>Modified Toolbox<br><b>TargetEverything enable<sup>(1)</sup></b></td>
+    <td align="left"Modified Toolbox<br>Modified Toolbox<br><b>target everything directly enable<sup>(1)</sup></b></td>
     <td align="center"><a href="/maindll/6.16/GWToolboxdll.dll">6.16</a></td>
     <td align="center"><a href="/maindll/6.17/GWToolboxdll.dll">6.17</a></td>
+  </tr>
+  <tr>
+    <td align="left"><b>Plugin AllowTargetEverything<sup>(2)</sup></td>
+    <td align="center" colspan="2"><a href="/plugins/OpenChestFromDistance/2024-05-06_6.17-build/AllowTargetEverything.dll">06/05/24 build</a></td>
   </tr>
   <tr>
     <td align="left"><b>Plugin OpenChestFromDistance<sup>(2)</sup></b><br><i>/openchest</i> chat command</td>
@@ -37,11 +40,8 @@ For last TB versions, the main TB folder is located in your Windows user <i>Docu
 
 
 ## Known issues in last versions
-- Unloading the OpenChestFromDistance plugin from GWToolbox settings sometimes leads to a crash.
+- With GWLauncher and with some plugins enables, a crash message can occurs on GW or TB closure.
 
-## Remarks
-- When possible, each extra feature is added with a plugin. They are easier to maintain and can be loaded / unloaded when you really need them.
-- If not possible, the feature is directly added to the main GWToolbox.dll file but needs to be updated for every Toolbox updated.
 
 ## Disclaimer
 All these features were at some point removed from the official GuildWars Toolbox because either considered outside of the usual GW bounds, or to comply Toolbox maintainers view about the tool. Some of them were never in the main tool.
