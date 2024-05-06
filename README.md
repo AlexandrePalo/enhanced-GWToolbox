@@ -24,7 +24,7 @@ GWToolbox for GuildWars with extra features
   </tr>
   <tr>
     <td align="left"><b>Plugin AllowTargetEverything<sup>(2)</sup></td>
-    <td align="center" colspan="2"><a href="/plugins/OpenChestFromDistance/2024-05-06_6.17-build/AllowTargetEverything.dll">06/05/24 build</a></td>
+    <td align="center" colspan="2"><a href="/plugins/AllowTargetEverything/2024-05-06_6.17-build/AllowTargetEverything.dll">06/05/24 build</a></td>
   </tr>
   <tr>
     <td align="left"><b>Plugin OpenChestFromDistance<sup>(2)</sup></b><br><i>/openchest</i> chat command</td>
