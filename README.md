@@ -51,3 +51,5 @@ For last TB versions, the main TB folder is located in your Windows user <i>Docu
 All these features were at some point removed from the official GuildWars Toolbox because either considered outside of the usual GW bounds, or to comply Toolbox maintainers view about the tool. Some of them were never in the main tool.
 
 Thus, some of these extra features could be considered as *unsafe* to use and could eventually lead to a ban, even if no such ban has been recorded so far.
+
+The OpenChestFromDistance plugin is using ctos hooks, apparently known to flag your account.
