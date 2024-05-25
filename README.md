@@ -32,7 +32,7 @@ GWToolbox for GuildWars with extra features
     <td align="left"Modified Toolbox<br>Modified Toolbox<br><b>target everything directly enable<sup>(1)</sup></b></td>
     <td align="center"><a href="/maindll/6.16/GWToolboxdll.dll">6.16</a></td>
     <td align="center"><a href="/maindll/6.17/GWToolboxdll.dll">6.17</a></td>
-    <td align="center">Todo</td>
+    <td align="center">-</td>
   </tr
 </tbody>
 </table>
