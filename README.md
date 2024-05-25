@@ -12,9 +12,9 @@ GWToolbox for GuildWars with extra features
 <thead>
   <tr>
     <th align="left">Official Toolbox</th>
-    <th><a href="https://github.com/gwdevhub/GWToolboxpp/releases/tag/6.16_Release">6.16</a></th>
-    <th><a href="https://github.com/gwdevhub/GWToolboxpp/releases/tag/6.17_Release">6.17</a></th>
-    <th><a href="https://github.com/gwdevhub/GWToolboxpp/releases/tag/6.18_Release">6.18</a></th>
+    <th>6.16</th>
+    <th>6.17</th>
+    <th>6.18</th>
   </tr>
 </thead>
 <tbody>
