@@ -18,6 +18,7 @@ GWToolbox for GuildWars with extra features
     <th>6.20</th>
     <th>6.21</th>
     <th>6.22</th>
+    <th>6.24</th>
   </tr>
 </thead>
 <tbody>
@@ -25,16 +26,17 @@ GWToolbox for GuildWars with extra features
   <tr>
     <td align="left"><b>Plugin AllowTargetEverything<sup>(2)</sup></td>
     <td align="center"> - </td>
-    <td align="center" colspan="5"><a href="/plugins/AllowTargetEverything/2024-05-06_6.17-build/AllowTargetEverything.dll">06/05/24 build</a></td>
+    <td align="center" colspan="6"><a href="/plugins/AllowTargetEverything/2024-05-06_6.17-build/AllowTargetEverything.dll">06/05/24 build</a></td>
   </tr>
   <tr>
     <td align="left"><b>Plugin OpenChestFromDistance<sup>(2)</sup></b><br><i>/openchest</i> chat command</td>
-    <td align="center" colspan="6"><a href="/plugins/OpenChestFromDistance/2024-04-23_6.16-build/OpenChestFromDistance.dll">23/04/24 build</a></td>
+    <td align="center" colspan="7"><a href="/plugins/OpenChestFromDistance/2024-04-23_6.16-build/OpenChestFromDistance.dll">23/04/24 build</a></td>
   </tr>
   <tr>
     <td align="left"Modified Toolbox<br>Modified Toolbox<br><b>target everything directly enable<sup>(1)</sup></b></td>
     <td align="center"><a href="/maindll/6.16/GWToolboxdll.dll">6.16</a></td>
     <td align="center"><a href="/maindll/6.17/GWToolboxdll.dll">6.17</a></td>
+    <td align="center">-</td>
     <td align="center">-</td>
     <td align="center">-</td>
     <td align="center">-</td>
